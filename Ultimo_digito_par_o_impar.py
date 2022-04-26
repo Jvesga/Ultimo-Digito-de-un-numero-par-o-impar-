@@ -13,7 +13,7 @@ if n % 2 == 0:
     msj = "Par"
 else:
     msj = "Impar"
-# prossesing
+# ouput
 
 print("el ultimo numero de:",X, "es",n) 
 print("Por tanto el ultimo digito de su numero es " + msj)
